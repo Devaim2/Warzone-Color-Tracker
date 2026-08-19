@@ -15,3 +15,5 @@ To get the tool or for any inquiries, contact me via my TikTok:
 👉 Click here to visit my TikTok for @5pua1
 
 Note: This tool is intended for performance enhancement and educational purposes regarding real-time color tracking logic.
+
+<img width="273" height="418" alt="لقطة شاشة 2026-08-19 150116" src="https://github.com/user-attachments/assets/54449a6d-bbff-4498-84e0-35653a29712e" />
